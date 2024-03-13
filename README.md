@@ -6,6 +6,9 @@
 
 ![Thumbnail of Cayman](thumbnail.png)
 
+
+<a href="vscode://TeamsDevApp.ms-teams-vscode-extension?referrer=officedoc&sampleId=Word-Add-in-WritingAssistant"> test </a>
+
 ## Usage
 
 To use the Cayman theme:
